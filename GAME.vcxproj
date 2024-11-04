@@ -146,6 +146,7 @@
     <ClInclude Include="InimigoFacil.h" />
     <ClInclude Include="Jogador.h" />
     <ClInclude Include="Jogo.h" />
+    <ClInclude Include="Lista.h" />
     <ClInclude Include="Obstaculo.h" />
     <ClInclude Include="ObstaculoDificil.h" />
     <ClInclude Include="ObstaculoFacil.h" />
